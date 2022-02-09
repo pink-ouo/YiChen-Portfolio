@@ -171,10 +171,15 @@ a{
     border-radius: 20%;
 }
 
+.yi-img-wrap5{
+    width: 40%;
+    overflow: hidden;
+}
+
 .yi-img-wrap img{
     width: 100%;
 }
-.yi-img-wrap2{
+.yi-img-wrap{
     width: 100%;
     height: auto;
 }
