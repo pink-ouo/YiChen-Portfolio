@@ -15,6 +15,7 @@ body p{
 
 h2{
     font-family: 'Cormorant Garamond', serif;
+    color: #3c6db6 !important;
 }
 
 
@@ -34,8 +35,8 @@ a{
     letter-spacing: 3.3px;
     line-height: 22.32px;
     color: #fff;
-    background-color: #ff828c;
-    border: 1px #ff828c;
+    background-color: #82b4ff;
+    border: 1px #82b4ff;
     border-radius: 30px;
     padding: 21px 40px;
     font-family: 'Heebo', sans-serif;
@@ -55,8 +56,8 @@ a{
     height: 50px;
     font-size: 12px;
     color: #fff;
-    background-color: #ff828c;
-    border: 1px #ff828c;
+    background-color: #82b4ff;
+    border: 1px #82b4ff;
     border-radius: 50%;
     padding: 20px 20px;
     font-family: 'Heebo', sans-serif;
@@ -70,15 +71,15 @@ a{
 /* -------------------------------------------------- */
 
 .navbar a:hover{
-    color: #ff828c !important;
+    color: #82b4ff !important;
 }
 .home{
-    color: #ff828c !important;
+    color: #3c6db6 !important;
 }
 
 .navbar{
     width: 100%;
-    background:#fcebed ;
+    background:#ffffff ;
     letter-spacing: 3px ;
     font-family: 'Heebo';
     font-size: 15px
@@ -97,7 +98,7 @@ a{
 
 .home{
    
-    color: #ff828c;
+    color: #82b4ff;
 }
 
 .navbar a{
@@ -114,7 +115,7 @@ a{
 }
 
 .bag:hover{
-    color: #ff828c;
+    color: #82b4ff;
     transition: .3s;
 }
 
@@ -133,8 +134,8 @@ a{
 }
 
 .navbar .btn:hover{
-    background-color: #ff828c;
-    border: 1px solid #ff828c;
+    background-color: #82b4ff;
+    border: 1px solid #82b4ff;
     color: #fff;
 }
 
@@ -222,8 +223,8 @@ a{
     letter-spacing: 3.3px;
     line-height: 22.32px;
     color: #fff;
-    background-color: #ff828c;
-    border: 1px #ff828c;
+    background-color: #82b4ff;
+    border: 1px #82b4ff;
     border-radius: 30px;
     padding: 21px 40px;
     font-family: 'Heebo', sans-serif;
@@ -354,11 +355,11 @@ a{
 }
 
 .picbox a:hover{
-    color:#ff828c;
+    color:#82b4ff;
 }
 
 .picbox p{
-    color:#ff828c;
+    color:#82b4ff;
     font-size: 14px;
 }
 
@@ -410,10 +411,10 @@ a{
 .redbox, .greenbox {
     width: 100%;
     height: 230px;
-    background-color: #9e656b;
+    background-color: #BC9CB0;
     color:#fff;
     padding: 1px;
-    border:10px solid #9e656b;
+    border:10px solid #BC9CB0;
     background-clip: content-box;
     
 }
@@ -453,13 +454,13 @@ a{
 
 }
 .redbox.greenbox, a:hover{
-    color: #ff828c;
+    color: #82b4ff;
     text-decoration: none;
 }
 
 .img-wrap2{
     margin-bottom: 35px;
-    background-color: rgb(255, 198, 198);
+    background-color: #89a2c6;
     padding: 20px;
  
 
@@ -471,8 +472,8 @@ a{
 }
 
 .greenbox{
-    border:10px solid #026f75;
-    background-color: #026f75;
+    border:10px solid #87BBA2;
+    background-color: #87BBA2;
 }
 
 .title3{
@@ -484,7 +485,7 @@ a{
     font-size: 24px;
     font-style: italic;
     line-height: 31.2px;
-    color: #ff828c;
+    color: #3c6db6 ;
     margin-top: 20px;
 }
 
@@ -514,8 +515,8 @@ a{
     letter-spacing: 3.3px;
     line-height: 22.32px;
     color: #fff;
-    background-color: #ff828c;
-    border: 1px #ff828c;
+    background-color: #82b4ff;
+    border: 1px #82b4ff;
     border-radius: 30px;
     padding: 20px 40px;
     font-family: 'Heebo', sans-serif;  
@@ -544,7 +545,7 @@ a{
     font-size: 24px;
     font-style: italic;
     line-height: 31.2px;
-    color: #ff828c;
+    color: #82b4ff;
     margin-top: 20px;
 }
 
@@ -637,7 +638,7 @@ a{
 
 .textnumber{
     font-size: 50px;
-    color:#ff828c;
+    color:#82b4ff;
 }
 
 .pg6-text{
@@ -652,7 +653,7 @@ a{
 .pg6box1:after{
     content: '';
     height: 300px;
-    border-left: 1px solid #ff828c;
+    border-left: 1px solid #82b4ff;
     position: absolute;
     top: 15%;
     right: 0px;
@@ -660,7 +661,7 @@ a{
 
 @media(max-width:989px){
     .pg6box1{
-        border-bottom: 1px solid #ff828c;
+        border-bottom: 1px solid #82b4ff;
         padding-right:0 ;
     }
     .pg6box1:after{
@@ -734,7 +735,7 @@ a{
 
 .pg8box1 h2{
     font-size: 24px;
-    color: #ff828c;
+    color: #82b4ff;
     margin-bottom: 20px;
 }
 
@@ -763,7 +764,7 @@ a{
     font-size: 14px;
     font-family: 'Heebo', sans-serif;
     letter-spacing: 3px;
-    color: #ff828c;
+    color: #82b4ff;
 }
 
 .pg8 a:hover{
@@ -859,13 +860,13 @@ a{
 }
 
 .cardh1{
-    background-color: #e9c3c7;
+    background-color: #82b4ff;
 }
 .cardh2{
-    background-color: #f7c4c9;
+    background-color: #82b4ff;
 }
 .cardh3{
-    background-color: #f4d5cc;
+    background-color: #82b4ff;
 }
 
 .pg10 .card h5{
@@ -892,8 +893,8 @@ a{
 .btn3{
     font-size: 12px;
     letter-spacing: 3px;
-    color: #ff828c;
-    border: 1px solid #ff828c;
+    color: #82b4ff;
+    border: 1px solid #82b4ff;
     border-radius: 30px;
     line-height: 55px;
     padding: 0 30px ;
@@ -904,8 +905,8 @@ a{
 }
 
 .btn3:hover{
-    background-color: #ff828c;
-    border: 1px solid #ff828c;
+    background-color: #82b4ff;
+    border: 1px solid #82b4ff;
     color: #fff;
 }
 
@@ -922,12 +923,13 @@ a{
     width: 100%;
     height:300px;
     position: relative;
-    background-image: url(./img/bg9.jpg);
+    /* background-image: url(./img/bg9.jpg); */
     background-size:cover;
     background-position:center center;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #ffffff3d;
 
     
   
@@ -966,8 +968,8 @@ a{
     letter-spacing: 3.3px;
     line-height: 22.32px;
     color: #fff;
-    background-color: #ff828c;
-    border: 1px #ff828c;
+    background-color: #82b4ff;
+    border: 1px #82b4ff;
     border-radius: 30px;
     padding: 21px 40px;
     font-family: 'Heebo', sans-serif;
@@ -987,7 +989,7 @@ a{
 /* -------------------------------------------------- */
 
 .footer{
-    background-color: #0f3031;
+    background-color: #1073a1;
     color: #fff;
     text-align: center;
     padding-top:30px ;
@@ -1000,7 +1002,7 @@ a{
 }
 
 .footer a:hover{
-    color: #ff828c;
+    color: #82b4ff;
 }
 
 .footer h1{
@@ -1017,7 +1019,7 @@ a{
 }
 
 .icon i:hover{
-    color:#ff828c;
+    color:#82b4ff;
     transition: .3s;
 }
 
@@ -1036,12 +1038,12 @@ a{
 
 ::-moz-selection
 {
-background: #ff828c;
+background: #82b4ff;
 color: #fff;
 }
 ::selection
 {
-background: #ff828c;
+background: #82b4ff;
 color: #fff;
 }
 
@@ -1053,5 +1055,8 @@ align-items: center;
 height:50px;
 }
 .back a{
-    color: #ff828c;
+    color: #82b4ff;
     }
+.workH1{
+    border-bottom: 5px solid #5180c5;
+}
