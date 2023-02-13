@@ -146,6 +146,14 @@ a{
 
 }
 
+.healthBg {
+    background: url(./img/health.png)no-repeat top/100%;
+    padding-top: 100px;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
 .img-wrap-small{
     width: 30%;
 }
@@ -166,10 +174,9 @@ a{
 
 .yi-img-wrap{
     width: 90%;
-    height: 80%;
     /* margin: 50px; */
     overflow: hidden;
-    border-radius: 10%;
+    border-radius: 5px;
 }
 
 
@@ -842,7 +849,6 @@ a{
 .pg10 .row2{
     display: flex;
     justify-content: center;
-    
 }
 
 .pg10 .pg8box1{
@@ -923,7 +929,7 @@ a{
 
 .pg11box{
     width: 100%;
-    height:300px;
+    height:150px;
     position: relative;
     /* background-image: url(./img/bg9.jpg); */
     background-size:cover;
@@ -994,8 +1000,6 @@ a{
     background-color: #0a4b69;
     color: #fff;
     text-align: center;
-    padding-top:30px ;
-    padding-bottom: 30px;
 }
 
 .footer a{
@@ -1067,5 +1071,46 @@ height:50px;
     text-align: start;
 }
 
+.center-center{
+    display: flex;
+    justify-content: center;
+}
 
+.hoverBlack{
+    position: relative;
+}
     
+.mask:hover{
+    background-color: #00000085;
+    z-index: 999;
+    transition: background-color 0.1s linear
+}
+
+.mask{
+    width: 100%;
+    background-color: #00000060;
+    position: absolute;
+    z-index: 999;
+    height: 100%;
+    color: #dadada;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+}
+
+.h-100{
+    height: 100%;
+    margin: 0;
+}
+.contantImg{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.blod{
+    font-weight: blod;
+}
+        
