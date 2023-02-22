@@ -201,9 +201,10 @@ a{
 
 .pg1:hover,
 .pg1:active {
-    background: url(./img/bg.jpg)no-repeat center / 100% 100%;
+    background: url(./img/bg.jpg)no-repeat center;
     height: 100vh;
     animation: fadein 2s infinite;
+    background-size: cover;
 }
 
 @keyframes fadein {
