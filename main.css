@@ -194,8 +194,9 @@ a{
 
 .pg1{
     background: url(./img/bg.jpg
-    )no-repeat center / 100% 100%;
+    )no-repeat center;
     height:100vh;
+    background-size: cover;
 }
 
 .pg1:hover,
@@ -968,7 +969,7 @@ a{
 @media(max-width:1100px){
     .pg11box{
       height:auto;
-      min-height:500px;    
+      min-height:200px;    
     }
   }
 
@@ -1080,7 +1081,7 @@ align-items: center;
 height:50px;
 }
 .back a{
-    color: #82b4ff;
+    color: #000000;
     }
 .workH1{
     border-bottom: 3px solid #747474;
@@ -1142,7 +1143,7 @@ height:50px;
 }
 
 .headline1 {
-    background: #d1edff;
+    background: #ffffff;
     position: absolute;
     z-index: 999;
     width: 100%;
@@ -1167,7 +1168,6 @@ height:50px;
 }
 
 .parallax {
-    width: 99vw;
     height: 100vh;
     font-size: 50px;
     display: flex;
